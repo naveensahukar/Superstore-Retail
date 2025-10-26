@@ -47,5 +47,4 @@ Power BI Desktop – Dashboard creation and visualization.
 Power Query – Data cleaning and transformation.
 SQL Server – Data extraction and preprocessing.
 DAX (Data Analysis Expressions) – Calculated measures and KPIs.
-
 Excel / CSV Dataset – Source data (Superstore dataset).
